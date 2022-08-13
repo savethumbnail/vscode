@@ -1,0 +1,55 @@
+{
+  "editor.fontFamily": "Fira Mono",
+  "editor.fontSize": 18,
+  "editor.fontWeight": "560",
+
+  "settingsSync.ignoredSettings": [
+  
+
+  ],
+
+  "workbench.colorCustomizations": {
+    // "editor.background": "#080808",
+    // "editor.background": "#0a0e1f",
+    "editor.background": "#0A0E14",
+    // "editor.background": "#ffffff",
+    "editor.foreground": "#ffffff",
+    "activityBar.background": "#0A0E14",
+    "activityBar.foreground": "#ffffff",
+    "sideBar.background": "#0A0E14",
+    "list.hoverBackground": "#41a6d9",
+    "sideBar.foreground": "#ffffff",
+    "terminal.background": "#0A0E14",
+    "terminal.foreground": "#ffffff",
+    "terminalCursor.foreground": "#ffffff",
+
+    // "editor.lineHighlightBorder": "#ff0000"
+    // "editor.lineHighlightBackground": "#ffffff"
+    "editorLineNumber.activeForeground": "#15c3cf",
+    "editorLineNumber.foreground": "#a7da1c"
+  },
+  "telemetry.telemetryLevel": "off",
+  "settingsSync.ignoredExtensions": [
+
+
+  ],
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"window.zoomLevel": 1,
+"[javascriptreact]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"workbench.iconTheme": "dobri-theme-icons",
+"workbench.colorTheme": "Andromeda",
+"[json]": {
+  "editor.defaultFormatter": "vscode.json-language-features"
+},
+"[html]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+}
